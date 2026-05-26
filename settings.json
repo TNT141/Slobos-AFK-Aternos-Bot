@@ -29,11 +29,11 @@
    "chat-messages": {
   "enabled": true,
   "repeat": true,
-  "repeat-delay": 120,
+  "repeat-delay": 900,
   "messages": [
     "GODCRAFT - Welcome to the realm.",
     "Legends rise in this realm.",
-    "FlyGod_bot is watching the kingdom."
+    "God is watching the kingdom."
   ]
 },
     "chat-log": true,
