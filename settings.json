@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "godcraft-legends.aternos.me",
-    "port": 33050
+    "port": 33050,
     "version": "",
     "try-creative": false
   },
